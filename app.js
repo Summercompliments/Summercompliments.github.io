@@ -3,7 +3,7 @@
    (see README.md). Example: 'https://your-app.onrender.com'
    Leave as-is during local testing and the app will still work for guests —
    it just won't be able to deliver photos to Telegram until this is set. */
-const BACKEND_URL = 'https://YOUR-BACKEND-URL.example.com';
+const BACKEND_URL = 'https://summercompliments-github-io.onrender.com/';
 
 const $ = (s, el = document) => el.querySelector(s);
 
